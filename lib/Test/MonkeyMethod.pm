@@ -76,6 +76,9 @@ sub _unmonkey_all {
 
 Simple method monkey patching for easy unit tests
 
+=for html
+<a href="https://travis-ci.org/necrophonic/test-monkeymethod"><img src="https://travis-ci.org/necrophonic/test-monkeymethod.png?branch=master"></a>
+
 =head1 Synopsis
 
   use Test::MonkeyMethod qw(:all);
